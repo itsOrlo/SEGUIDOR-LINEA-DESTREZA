@@ -9,3 +9,5 @@ accionan los motores gracias a la codificación, cambiando gracias a esto su ori
 y de esta manera es posible completar circuitos de la mejor manera posible.
 
 Lenguaje: C++ | Arduino
+
+![Esta es una imagen](/flujograma-seguidor-linea.jpeg)
